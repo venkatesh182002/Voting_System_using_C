@@ -1,1 +1,1 @@
-# Voting_System_using_C
+# University_Voting_System_using_C
